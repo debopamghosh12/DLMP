@@ -1,0 +1,6 @@
+#T=1: Add a "bridge" node (4) to connect them
+
+#Format: node1,node2,action
+
+4,3,add
+4,5,add

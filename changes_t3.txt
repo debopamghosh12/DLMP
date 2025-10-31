@@ -1,0 +1,5 @@
+#T=3: Node 1 is now fully isolated
+
+#Format: node1,node2,action
+
+1,3,delete

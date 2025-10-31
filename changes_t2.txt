@@ -1,0 +1,7 @@
+#T=2: Add a new node (8) to Comm B, delete node 1 from Comm A
+
+#Format: node1,node2,action
+
+8,6,add
+8,7,add
+1,2,delete
